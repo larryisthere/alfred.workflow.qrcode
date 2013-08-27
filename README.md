@@ -15,4 +15,4 @@ An image of QRCode will be open with Preview application by default.
 
 ###Todo:
 
-- [ ] To generate locally.
+- To generate locally
