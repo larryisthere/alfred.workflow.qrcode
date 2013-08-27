@@ -1,7 +1,7 @@
 alfred.workflow.qrcode
 ======================
 
-A QRcode generator with Google Chart API for Alfred Workflows.
+A QRcode generator based on Google Chart API for Alfred Workflows.
 
 
 ###Usage:
@@ -15,4 +15,4 @@ An image of QRCode will be open with Preview application by default.
 
 ###Todo:
 
-1. To generate locally.
+- [ ] To generate locally.
